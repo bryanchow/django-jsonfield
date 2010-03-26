@@ -1,0 +1,10 @@
+django-jsonfield is a Django model field that stores arbitrary data as
+serialized JSON.
+
+It was originally written by deadwisdom[1] and later revised and submitted
+as a patch to Django by Patrick Altman[2][3]. Here it is presented as a
+module structured for easy inclusion in other projects as a git submodule.
+
+[1] http://www.djangosnippets.org/snippets/377/
+[2] http://code.djangoproject.com/ticket/12990
+[3] http://paltman.com/2008/oct/21/jsonfield-for-django-models/
